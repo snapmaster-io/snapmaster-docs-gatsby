@@ -4,7 +4,7 @@
 
 SnapMaster is the definitive DevOps integration platform.  
 
-This repository contains the SnapMaster documentation, built using [Gatsby](https://www.gatsbyjs.org/).
+This repository contains the SnapMaster documentation, built using [Gatsby](https://www.gatsbyjs.org/) and Rocketseat's [gatsby-theme-docs](https://github.com/Rocketseat/gatsby-themes/tree/master/@rocketseat/gatsby-theme-docs).
 
 ## Running docs locally
 
