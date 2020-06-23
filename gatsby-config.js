@@ -20,7 +20,6 @@ module.exports = {
         configPath: `src/config`,
         docsPath: `src/docs`,
         githubUrl: `https://github.com/snapmaster-io/snapmaster-docs-gatsby`,
-        baseDir: `/`,
       },
     },
     {
