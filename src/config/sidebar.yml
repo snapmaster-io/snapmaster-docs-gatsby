@@ -1,0 +1,28 @@
+# Sidebar navigation
+
+- label: 'Introduction'
+  link: '/'
+- label: 'Conceptual Overview'
+  link: '/conceptual-overview'
+- label: 'Getting started'
+  items:
+    - label: Logging in for the first time
+      link: '/getting-started/logging-in-first-time'
+    - label: Activating your first snap
+      link: '/getting-started/activating-first-snap'
+- label: CLI
+  items: 
+    - label: Getting started with the CLI
+      link: '/cli/getting-started'
+    - label: Formatting output
+      link: '/cli/formatting-output'
+    - label: Managing snaps
+      link: '/cli/managing-snaps'
+    - label: Activating and managing active snaps
+      link: '/cli/managing-active-snaps'
+    - label: Managing connections
+      link: '/cli/managing-connections'
+- label: Open Source
+  items: 
+    - label: Open Source repositories
+      link: '/oss'
