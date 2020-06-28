@@ -18,10 +18,22 @@
       link: '/cli/formatting-output'
     - label: Managing snaps
       link: '/cli/managing-snaps'
-    - label: Activating and managing active snaps
+    - label: Activating snaps
+      link: '/cli/activating-snaps'
+    - label: Managing active snaps
       link: '/cli/managing-active-snaps'
     - label: Managing connections
       link: '/cli/managing-connections'
+- label: Tools
+  items: 
+    - label: Introduction
+      link: '/tools/introduction'
+    - label: Connection types
+      link: '/tools/connection-types'
+    - label: Docker
+      link: '/tools/docker'
+    - label: GCP
+      link: '/tools/gcp'
 - label: Open Source
   items: 
     - label: Open Source repositories
