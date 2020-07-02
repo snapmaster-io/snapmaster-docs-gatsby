@@ -55,10 +55,17 @@ created, as well as an action called `create` which will create a new incident.
 
 ![snap-tools-get](img/snap-tools-get.png)
 
+## Credentials
+
+Credentials for tools are encrypted with a per-user key and securely 
+stored in a secret store.  Refer to the [security and credentials](security-and-credentials) 
+section to read more about SnapMaster's security model.
+
 ## Activating Snaps
 
 Once all of the tools that a snap references are connected, a snap can be *activated*. This will create the webhook corresponding to the trigger, and when that webhook fires, 
-the actions will be executed sequentially.
+the actions will be executed sequentially.  Refer to the section on 
+[activating your first snap](getting-started/activating-first-snap) to learn more.
 
 ## Next steps
 

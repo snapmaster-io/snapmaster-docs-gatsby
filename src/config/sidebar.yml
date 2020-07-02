@@ -34,7 +34,9 @@
       link: '/tools/docker'
     - label: GCP
       link: '/tools/gcp'
-- label: Open Source
+- label: Under the hood
   items: 
+    - label: Security and credentials
+      link: '/security-and-credentials'
     - label: Open Source repositories
       link: '/oss'
