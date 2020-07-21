@@ -50,7 +50,7 @@ Parameters:
 | channel   | channel to send to |                  | true     |
 | message   | message to send    |                  | true     |
 
-## Docker provider definition
+## Slack provider definition
 
 Here is the full Slack provider definition:
 
